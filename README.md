@@ -1,0 +1,1 @@
+# gha-bulkcomponent-4
